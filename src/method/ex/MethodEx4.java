@@ -32,7 +32,7 @@ public class MethodEx4 {
                     System.out.println("시스템을 종료합니다.");
                     return;
                 default:
-                    System.out.println("올바른 선택이 아닙니다. 다시 선택해주세요");
+                    System.out.println("올바른 선택이 아닙니다. 다시 선택해주세요.");
             }
         }
     }
