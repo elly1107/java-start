@@ -2,10 +2,10 @@ package variable.ex;
 
 public class VarEx3 {
     public static void main(String[] args) {
-        long a=10000000000L;
-        System.out.println(a);
-        boolean b = true;
-        System.out.println(b);
+        long longVar = 10000000000L; // int는 약 20억까지이다
+        boolean booleanVar = true;
 
+        System.out.println(longVar);
+        System.out.println(booleanVar);
     }
 }
